@@ -1,0 +1,20 @@
+{
+  "name": "CriptX",
+  "short_name": "CriptX",
+  "description": "Messaggistica sicura per tutti",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1f2937",
+  "theme_color": "#1f2937",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "prefer_related_applications": false,
+  "scope": "/"
+}
